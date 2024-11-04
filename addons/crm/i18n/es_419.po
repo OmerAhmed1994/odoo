@@ -1221,7 +1221,7 @@ msgstr "CRM: mi flujo de trabajo"
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead__company_currency
 msgid "Currency"
-msgstr "Divisa"
+msgstr "Moneda"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_team__alias_bounced_content
@@ -3787,8 +3787,8 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
 msgid "This email is blacklisted for mass mailings. Click to unblacklist."
 msgstr ""
-"Este correo electrónico está en la lista negra para envíos masivos. Haga "
-"clic para eliminarlo de la lista negra."
+"Este correo está en la lista de exclusión para envíos masivos. Haga clic "
+"para eliminarlo de esa lista."
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__email_normalized
